@@ -1,0 +1,40 @@
+svg {
+  overflow: visible;
+  /* background: #eee; */
+  /* display: block; */
+  /* margin: 2rem; */
+  /* width: 100%; */
+}
+
+#root {
+  /* display: flex; */
+  /* flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  height: 100vh;
+  padding: 0 50px; */
+}
+
+.container-grid {
+  text-align: center;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.grid-item {
+  margin: 4rem auto;
+  /* flex: 1; */
+  /* display: block; */
+  /* display: inline-block; */
+  /* left: 50%; */
+}
+
+.legend-field {
+  display: inline-block;
+  margin: 0 0.5em;
+}
+
+.legend-field input {
+  margin-right: 0.5em;
+}
